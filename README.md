@@ -17,7 +17,7 @@ let bulletProof = mrpProve(amount1_in_decimal, amount2_in_decimal, ... mask_for_
         - B: BigInteger in hex
         - Challenges: Concat all challenge(bigInteger) in hex
   - Comms: Pederson Commitment for each value with equivalent mask
-  - Random Parameter in BulletProof
+  - Random Parameters in BulletProof
         -  A: Point in hex
         -  S: Point in hex
         - cx: BigInteger in hex
