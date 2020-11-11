@@ -1,6 +1,9 @@
 # privacy-wasm
 Binary for improving speed of Bulletproof on browser/nodejs, base on tomoP's precompiled contract
 
+Please refer the white paper for further detail and explaination 
+https://eprint.iacr.org/2017/1066.pdf
+
 MultiRangeProof generator
 ```
 let bulletProof = mrpProve(amount1_in_decimal, amount2_in_decimal, ... mask_for_amount_1_in_decimal, mask_for_amount_2_in_decimal, ...);
