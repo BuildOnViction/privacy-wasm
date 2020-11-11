@@ -1,7 +1,7 @@
 # privacy-wasm
 Binary for improving speed of Bulletproof on browser/nodejs, base on tomoP's precompiled contract
 
-Please refer the white paper for further detail and explaination 
+Please refer the white paper for further detail and explanation 
 https://eprint.iacr.org/2017/1066.pdf
 
 MultiRangeProof generator
